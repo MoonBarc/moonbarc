@@ -4,4 +4,4 @@
 
 💻  I'm currently working on an autoscaling cloud Minecraft Server network with k8s that plants 🌳 trees based on playtime.
 
-🥏  You can contact me on discord if you want, my name is: MoonBarc#2114
+🥏  You can contact me on discord if you want, my name is: MoonBarc#0001
