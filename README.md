@@ -1,6 +1,16 @@
 ### 👋 Hello, I'm MoonBarc!
 
-📕  I'm currently learning Go, K8s, and how the heck to do Continuous Delivery, but I'm proficient in Javascript, Java, CSS, and HTML (although who uses that anymore?)
+## Languages & Technologies I know 📕
+- Go
+- Java
+- JavaScript
+- Ruby (learning)
+- AppleScript (yes I know, hardest language ever)
+- Firebase (mainly firestore)
+- Discord bots
+- Spigot plugins
+- NodeJS
+- Deno
 
 💻  I'm currently working on an autoscaling cloud Minecraft Server network with k8s that plants 🌳 trees based on playtime.
 
