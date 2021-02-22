@@ -12,6 +12,6 @@
 - NodeJS
 - Deno
 
-💻  I'm currently working on an autoscaling cloud Minecraft Server network with k8s that plants 🌳 trees based on playtime.
+💻  Working on *pyramid*, an autoscaling Minecraft network with many features, spanning from testing to production! (coming soon)
 
 🥏  You can contact me on discord if you want, my name is: MoonBarc#0001
