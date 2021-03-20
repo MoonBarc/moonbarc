@@ -1,17 +1,26 @@
 ### 👋 Hello, I'm MoonBarc!
 
 ## Languages & Technologies I know 📕
-- Go
 - Java
 - JavaScript
-- Ruby (learning)
-- AppleScript (yes I know, hardest language ever)
+- Lua
 - Firebase (mainly firestore)
 - Discord bots
 - Spigot plugins
+- Nomad
+- Kubernetes
 - NodeJS
-- Deno
+- Elixir
 
-💻  Working on *pyramid*, an autoscaling Minecraft network with many features, spanning from testing to production! (coming soon)
+## 2021 Bucket List (*so far*) 🪣
+- Perfect my...
+    - elixir skills
+    - jvm knowledge
+- learn about...
+    - computer vision 
+    - cool 3D things with math
+
+
+💻  Working on *pyramid*, an autoscaling game server network with many features, spanning from testing to production! (in development)
 
 🥏  You can contact me on discord if you want, my name is: MoonBarc#0001
