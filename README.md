@@ -21,6 +21,6 @@
     - cool 3D things with math
 
 
-💻  Working on *pyramid*, an autoscaling game server network with many features, spanning from testing to production! (in development)
+💻  Working on *FSVR* (not actually the name), a secret VR game that I'm working on!
 
 🥏  You can contact me on discord if you want, my name is: MoonBarc#0001
