@@ -12,11 +12,13 @@
 - Elixir
 - Rust
 - Svelte
+- SQLx
+- SQL (postgres)
 
 ## 2022 Bucket List (*so far*) 🪣
 - [ ] Relearn C
 - [ ] Make a basic linux init system
-- [ ] Comprehend relational databases
+- [x] Comprehend relational databases
 
 💻  Working on another secret project in the browser!
 
